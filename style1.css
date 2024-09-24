@@ -1,0 +1,14 @@
+body{
+    font-family: "Georgia",serif;
+    line-height:normal;
+    color:black;
+    background-color:seashell
+}
+
+h3{
+    color:rgb(38, 0, 255);
+}
+
+h1{
+    font-size:48px;
+}

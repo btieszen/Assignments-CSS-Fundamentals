@@ -1,0 +1,51 @@
+
+h1{
+    color:#b8670bcb;
+    font-size:36px;
+}
+
+h2{
+    color:blue;
+    font-size:28px;
+    margin-top:20px;
+    padding:10px;
+}
+.ingredients,.steps
+{
+    padding:20px;
+    border:1px solid #ccc;
+    margin-bottom:20px;
+    background-color:#f9f9f9;
+    box-sizing:border-box;
+    }
+
+    .steps {
+        
+        color:rgb(196, 35, 236);
+     
+        }
+
+        ul{
+            list-style-type:circle;
+            color:rgba(235, 8, 20, 0.671);
+        }
+
+        ol{
+            color:crimson;
+        }
+
+body{
+    font-family: "Georgia",serif;
+    line-height:normal;
+    color:black;
+    background-color:seashell
+}
+a:hover {
+    color: #FF00FF;
+}
+footer{
+    font-family: "Georgia",serif;
+    line-height:normal;
+    color:black;
+    background-color:rgb(250, 225, 207)
+}
